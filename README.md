@@ -96,3 +96,16 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+---
+
+## 🧩 Esecuzione del progetto in locale
+
+Per avviare il server NestJS in modalità sviluppo, esegui:
+
+```bash
+npm run start:dev
+```
+
+Dopo pochi secondi l'app sarà attiva su:
+
+👉 [http://localhost:3000](http://localhost:3000)
